@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-os-adapters-nuxt",
+  "capabilityKey": "liberusoftware/module-control-panel-os-adapters",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-control-panel-os-adapters-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/control-panel/nextjs/os-adapters.md",
+  "presentationPlan": "projects/control-panel/nuxt/os-adapters.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
